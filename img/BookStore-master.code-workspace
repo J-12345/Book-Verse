@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "BookStore-master",
+			"path": ".."
+		},
+		{
+			"name": "images",
+			"path": "../../ebook/assets/images"
+		}
+	],
+	"settings": {}
+}
